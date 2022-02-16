@@ -1,4 +1,4 @@
-# CS_330
+
 # How do I approach designing software?
 To successfully create a fully realized 3D world using OpenGL, I needed to break down the entire development process into smaller components and plan out achievable goals within strict time limitations.  Though the goal of the implementation was realized very early on, I certainly applied a more adaptive design process throughout the development.  Working with new libraries is always challenging.  By first creating simple shapes and strengthening my understanding of the rendering pipeline, I was able to exercise this knowledge and apply it at a larger scale later during development by expanding the project based upon a modular design.  By remaining focused on the smaller challenges and tasks, I was able to weave together several individual concepts and components that I held very little understanding of just a few weeks prior.  Larger scale projects can be intimidating at first, but I will strive to apply the skills and awareness that I’ve practiced throughout this course to assist me in all future endeavors.       
 # How do I approach developing programs?
